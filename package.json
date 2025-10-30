@@ -4,7 +4,7 @@
   "description": "Aditya's Express Template",
   "main": "src/main.js",
   "scripts": {
-    "test": "jest -i"
+    "start": "node src/main.js"
   },
   "jest": {
     "transform": {
